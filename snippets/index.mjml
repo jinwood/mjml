@@ -1,0 +1,11 @@
+<mjml>
+  <mj-body>
+
+    <!-- The third component, mj-layout, also renders as a section -->
+    <mj-layout>
+      <mj-text color="blue" font-size="10px">
+        {{firstName}}
+      </mj-text>
+    </mj-layout>
+  </mj-body>
+</mjml>
